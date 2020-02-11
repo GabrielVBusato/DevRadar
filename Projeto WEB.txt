@@ -1,0 +1,11 @@
+-- Criar aplicação -- 
+
+yarn create react-app NOME
+
+npx create react-app NOME
+
+DOM = arvore de elementos em html
+
+yarn start = rodar aplicação
+
+React dom renderiza o app (funcao que retorna um conteudo html) dentro da div com id root.
